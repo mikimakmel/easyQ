@@ -1,0 +1,80 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "eject": "expo eject",
+    "lint": "eslint --cache --format codeframe --ext .js .",
+    "test": "node_modules/.bin/jest",
+    "test:debug": "node --inspect-brk node_modules/jest/bin/jest.js --runInBand"
+  },
+  "jest": {
+    "preset": "jest-expo",
+    "transform": {
+      "\\.js$": "<rootDir>/node_modules/react-native/jest/preprocessor.js",
+      "transformIgnorePatterns": [
+        "node_modules/(?!(jest-)?react-native|react-clone-referenced-element|@react-native-community|expo(nent)?|@expo(nent)?/.*|react-navigation|@react-navigation/.*|@unimodules/.*|sentry-expo|native-base)"
+      ]
+    }
+  },
+  "dependencies": {
+    "@expo/vector-icons": "^10.0.2",
+    "accordion-collapse-react-native": "^0.1.10",
+    "expo": "^33.0.0",
+    "expo-calendar": "^5.0.1",
+    "expo-permissions": "^5.0.1",
+    "moment": "^2.24.0",
+    "react": "16.8.3",
+    "react-dom": "^16.8.6",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-33.0.0.tar.gz",
+    "react-native-calendars": "^1.192.0",
+    "react-native-elements": "^1.1.0",
+    "react-native-image-swiper": "0.0.8",
+    "react-native-indicators": "^0.13.0",
+    "react-native-map-link": "^2.4.5",
+    "react-native-maps": "^0.24.2",
+    "react-native-material-menu": "^0.6.3",
+    "react-native-phone-call": "^1.0.9",
+    "react-native-scrollable-tab-view": "^0.10.0",
+    "react-native-swipeout": "^2.3.6",
+    "react-native-view-more-text": "^2.1.0",
+    "react-native-web": "^0.11.4",
+    "react-navigation": "^3.11.0"
+  },
+  "devDependencies": {
+    "babel-preset-expo": "^5.1.1",
+    "eslint": "^6.0.1",
+    "eslint-config-prettier": "^6.0.0",
+    "eslint-config-react": "^1.1.7",
+    "eslint-config-react-native": "^4.0.0",
+    "eslint-plugin-jest": "^22.7.1",
+    "eslint-plugin-prettier": "^3.1.0",
+    "eslint-plugin-react": "^7.14.2",
+    "eslint-plugin-react-native": "^3.7.0",
+    "jest-expo": "^33.0.2",
+    "prettier": "^1.18.2",
+    "react-test-renderer": "^16.8.6"
+  },
+  "private": true,
+  "checkSubmission": {
+    "ex": 3,
+    "students": [
+      {
+        "id": "203447834",
+        "fullName": "Michael Makmel",
+        "email": "makmel.miki@gmail.com"
+      },
+      {
+        "id": "304829807",
+        "fullName": "Lev Ari Cohen",
+        "email": "Levaricohen@gmail.com"
+      }
+    ],
+    "os": "Windows",
+    "device": "iOS",
+    "deliveryDate": "07/01/2019",
+    "delay": false
+  }
+}
