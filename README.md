@@ -37,12 +37,14 @@ expo start
 ## Screenshots
 
 #### Find your service provider
-<img width="450" height="450" src="https://user-images.githubusercontent.com/37630492/62934884-59dbcb00-bdce-11e9-9a55-332a851f1f2c.png">
-<img width="450" height="450" src="https://user-images.githubusercontent.com/37630492/62934978-990a1c00-bdce-11e9-87dc-6749901d0f1a.png">
+Serach             |  Business Page
+:-------------------------:|:-------------------------:
+<img width="400" height="400" src="https://user-images.githubusercontent.com/37630492/62934884-59dbcb00-bdce-11e9-9a55-332a851f1f2c.png">  |  <img width="400" height="400" src="https://user-images.githubusercontent.com/37630492/62934978-990a1c00-bdce-11e9-87dc-6749901d0f1a.png">
 
 #### Add them to your providers list
-<img width="450" height="450" src="https://user-images.githubusercontent.com/37630492/62934908-71b34f00-bdce-11e9-9c93-6c170b030cae.png">
-<img width="450" height="450" src="https://user-images.githubusercontent.com/37630492/62934919-7841c680-bdce-11e9-96a6-7e5cf5ec5760.png">
+Empty List             |  Full List
+:-------------------------:|:-------------------------:
+<img width="400" height="400" src="https://user-images.githubusercontent.com/37630492/62934908-71b34f00-bdce-11e9-9c93-6c170b030cae.png">  |  <img width="400" height="400" src="https://user-images.githubusercontent.com/37630492/62934919-7841c680-bdce-11e9-96a6-7e5cf5ec5760.png">
 
 #### Find the service you needed
 <img width="450" height="450" src="https://user-images.githubusercontent.com/37630492/62935047-bb9c3500-bdce-11e9-9b5f-c5c78d9cbd75.png">
@@ -51,8 +53,9 @@ expo start
 <img width="450" height="450" src="https://user-images.githubusercontent.com/37630492/62935087-d40c4f80-bdce-11e9-894d-dcf5a2114ef4.png">
 
 #### Follow your appointments
-<img width="450" height="450" src="https://user-images.githubusercontent.com/37630492/62935213-2f3e4200-bdcf-11e9-9b84-16e4643fc82b.png">
-<img width="450" height="450" src="https://user-images.githubusercontent.com/37630492/62935214-2fd6d880-bdcf-11e9-9f14-2d1b3fabb0fb.png">
+No Bookings             |  Pending Bookings
+:-------------------------:|:-------------------------:
+<img width="400" height="400" src="https://user-images.githubusercontent.com/37630492/62935213-2f3e4200-bdcf-11e9-9b84-16e4643fc82b.png">  |  <img width="400" height="400" src="https://user-images.githubusercontent.com/37630492/62935214-2fd6d880-bdcf-11e9-9f14-2d1b3fabb0fb.png">
 
 #### Navigate to the appointment using your favorite app
 <img width="450" height="450" src="https://user-images.githubusercontent.com/37630492/62935260-4da43d80-bdcf-11e9-85d8-7540d13037bd.png">
