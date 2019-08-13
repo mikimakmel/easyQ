@@ -46,11 +46,10 @@ Empty List             |  Full List
 :-------------------------:|:-------------------------:
 <img width="400" height="400" src="https://user-images.githubusercontent.com/37630492/62934908-71b34f00-bdce-11e9-9c93-6c170b030cae.png">  |  <img width="400" height="400" src="https://user-images.githubusercontent.com/37630492/62934919-7841c680-bdce-11e9-96a6-7e5cf5ec5760.png">
 
-#### Find the service you needed
-<img width="450" height="450" src="https://user-images.githubusercontent.com/37630492/62935047-bb9c3500-bdce-11e9-9b5f-c5c78d9cbd75.png">
-
-#### See service schedule & Book your appointment
-<img width="450" height="450" src="https://user-images.githubusercontent.com/37630492/62935087-d40c4f80-bdce-11e9-894d-dcf5a2114ef4.png">
+#### Find the service you needed, See schedule & Book an appointment
+Services List             |  Available Appointments
+:-------------------------:|:-------------------------:
+<img width="450" height="450" src="https://user-images.githubusercontent.com/37630492/62935047-bb9c3500-bdce-11e9-9b5f-c5c78d9cbd75.png">  |  <img width="450" height="450" src="https://user-images.githubusercontent.com/37630492/62935087-d40c4f80-bdce-11e9-894d-dcf5a2114ef4.png">
 
 #### Follow your appointments
 No Bookings             |  Pending Bookings
