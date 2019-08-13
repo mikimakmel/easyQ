@@ -49,7 +49,7 @@ Empty List             |  Full List
 * #### Find the service you needed, See schedule & Book an appointment
 Services List             |  Available Appointments
 :-------------------------:|:-------------------------:
-<img width="450" height="450" src="https://user-images.githubusercontent.com/37630492/62935047-bb9c3500-bdce-11e9-9b5f-c5c78d9cbd75.png">  |  <img width="450" height="450" src="https://user-images.githubusercontent.com/37630492/62935087-d40c4f80-bdce-11e9-894d-dcf5a2114ef4.png">
+<img width="400" height="400" src="https://user-images.githubusercontent.com/37630492/62935047-bb9c3500-bdce-11e9-9b5f-c5c78d9cbd75.png">  |  <img width="400" height="400" src="https://user-images.githubusercontent.com/37630492/62935087-d40c4f80-bdce-11e9-894d-dcf5a2114ef4.png">
 
 * #### Follow your appointments
 No Bookings             |  Pending Bookings
